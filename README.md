@@ -25,3 +25,4 @@ assets/qub/
 * Environment setup complete
 * Walking policy under development
 
+![Isaac Gym Screenshot](스크린샷%202026-06-12%2023-26-32.png)
