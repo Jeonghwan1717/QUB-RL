@@ -1,18 +1,27 @@
 # QUB-RL
 
-Reinforcement Learning framework for QUB humanoid robot.
+Humanoid Robot Reinforcement Learning Project using Isaac Gym.
 
-## Features
+## Robot Model
 
-- Isaac Gym
-- PPO
-- Humanoid Locomotion
-- GPU Training
+* QUB Humanoid Robot
+* GPU optimized URDF
+* Visual meshes and collision meshes included
 
-## Results
+## Directory Structure
 
-Coming Soon
+assets/qub/
+├── urdf/
+└── meshes/
 
-## Installation
+## Simulation
 
-Coming Soon
+* Isaac Gym
+* PPO based locomotion training
+
+## Status
+
+* Robot model imported
+* Environment setup complete
+* Walking policy under development
+
