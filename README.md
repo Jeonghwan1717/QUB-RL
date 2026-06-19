@@ -24,5 +24,6 @@ assets/qub/
 * Robot model imported
 * Environment setup complete
 * Walking policy under development
+* QUB humanoid robot running in Isaac Gym parallel simulation environment.*
 
 ![Isaac Gym Screenshot](스크린샷%202026-06-12%2023-26-32.png)
